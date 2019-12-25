@@ -6,8 +6,8 @@ Notas públicas sobre o aprendizado da língua alemã feita por programadores pa
 - Frohe: froh (adj. _happy_) + e
 - Weihnachten: Weih (verb _weihen = to sanctify_) + nacht (_night_), algo como noite santa.
 
-das Weihnachten
-das frohe Weihnachten
+- das Weihnachten
+- das frohe Weihnachten
 
 Caso verbal: **Akkusativ**, já que o verbo oculto _wünschen_ (desejar) requer um _objeto direto_. O que eu desejo? Um feliz Natal.
 
